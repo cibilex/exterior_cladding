@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@iconify-json/carbon": "^1.1.5",
+    "@windicss/plugin-animations": "^1.0.9",
+    "nuxt": "3.0.0-rc.3",
+    "nuxt-windicss": "^2.3.2",
+    "unplugin-icons": "^0.14.3"
+  },
+  "dependencies": {
+    "swiper": "^8.1.6",
+    "vue-awesome-swiper": "^5.0.1"
+  }
+}
