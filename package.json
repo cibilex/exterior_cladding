@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "swiper": "^8.1.6",
+    "vercel-builder": "^0.0.2",
     "vue-awesome-swiper": "^5.0.1"
   }
 }

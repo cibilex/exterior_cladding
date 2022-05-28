@@ -10,5 +10,5 @@ export default defineNuxtConfig({
       }
     ]
   ],
-  css: ['~/assets/main.css', 'swiper/css', 'swiper/css/pagination', 'swiper/css/effect-coverflow','swiper/css/navigation']
+  css: ['~/assets/main.css', 'swiper/css', 'swiper/css/pagination', 'swiper/css/effect-coverflow', 'swiper/css/navigation']
 })
